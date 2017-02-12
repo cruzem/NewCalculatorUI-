@@ -1,0 +1,12 @@
+PODS:
+  - SwifterSwift (1.6.1)
+
+DEPENDENCIES:
+  - SwifterSwift
+
+SPEC CHECKSUMS:
+  SwifterSwift: 7ca26aa33424eb2bce2f4c75c9f4c1c6524fb4b9
+
+PODFILE CHECKSUM: 5b8b9e3d0165ac6b367c4d6729ca78118b6a33c2
+
+COCOAPODS: 1.2.0
